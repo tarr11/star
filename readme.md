@@ -31,8 +31,8 @@ I'm not excited about a sitemap file format as it will just get out of data unle
 Use the src directory for utilities in various languages and tools.  Eventually, I'll move that out into a separate project I guess.
 
 ## Utilities ##
-Here's a project for some utilities for your star files.  If more appear, I'm happy to link to them here
-[Utilities](https://github.com/tarr11/star.utils)
+[star.utils](https://github.com/tarr11/star.utils) 
+* Browser extensions, utilitiy code, etc
 
 
 
