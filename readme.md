@@ -1,7 +1,7 @@
-#Star.json#
+#Star#
 
 ## Overview ##
-Star.json is a convention based json based file format for storing bookmarks.
+Star is a convention based json based file format for storing bookmarks.  You store your bookmarks in json files and put them whereever you want.
 
 ## Why? ##
 I need a bookmarking tool.  I used to use Delicious.  Mostly I just use Ctrl-D in Chrome.  But all of this stuff is locked up proprietary data formats that I can't discover.
