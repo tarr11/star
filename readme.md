@@ -30,13 +30,9 @@ I'm not excited about a sitemap file format as it will just get out of data unle
 
 Use the src directory for utilities in various languages and tools.  Eventually, I'll move that out into a separate project I guess.
 
-## Roadmap ##
-* First thing I need is a chrome extension so I can bookmark easily.
-* Other stuff
- * vim plugin for editing star.json files easily
- * sublime-text (same)
-* Some tool to publish changes automagically to git or github
-
+## Utilities ##
+[star.util](https://github.com/tarr11/star.util) 
+* Browser extensions, utilitiy code, etc
 
 
 
