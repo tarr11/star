@@ -21,10 +21,14 @@ I'm using json to store the data.  I like json because:
 * It's easy to parse in just about any modern programming language.
 * It doesn't have a fixed schema and lets me add whatever I want to it.
 
-## Folder Structure ##
-Use the data directory to store all my bookmarks and notes.
+It's going to be pretty loosely conventional.  Fields like website, comment, etc, but that are mostly focused on readability.  I'm not excited about sticking non-human-readable things like UUIDs, timestamps, or GUIDs in this structure.
 
-Use the src directory for utilities in various languages and tools
+## Folder Structure ##
+Use the data directory to store all my bookmarks and notes.  Organize your files and folders under there however you want.  I'm personally starting with files that are source (like hn=hackernews, tc=techcrunch, etc) and then folders that categorize those sources.
+
+I'm not excited about a sitemap file format as it will just get out of data unless it is auto-generated.  And if it is auto-generated, it's not necessary here and can be done in some other tool.
+
+Use the src directory for utilities in various languages and tools.  Eventually, I'll move that out into a separate project I guess.
 
 ## Roadmap ##
 * First thing I need is a chrome extension so I can bookmark easily.
