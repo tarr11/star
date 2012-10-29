@@ -13,6 +13,14 @@
 		"date" : "10/29/2012",
 		"src" : "http://news.ycombinator.com/item?id=4712155",
 		"notes" : "Seems harder than using a straight editor."
+	},
+	{
+		"website" : "http://lab.hakim.se/kort/",
+		"desc" : "Hover over thumbnails",
+		"date" : "10/29/2012",
+		"src" : "http://news.ycombinator.com/item?id=4713201",
+		"notes" : "Seems strange"
 	}
+
 ]
 
