@@ -1,11 +1,10 @@
 [
 	{
 		"website" : "https://www.nationalfield.com",
-		"desc" : "Online authoring and hosting of reveal.js presentations",
-		"Date" : "10/29/2012",
+		"desc" : "Performance driven social network raises 1.5M"
+		"date" : "10/29/2012",
 		"src" : "http://techcrunch.com/2012/10/29/nationalfield-1-5-million/",
 		"fundraise" : True,
 		"fundraise_amount" : 1,500,000
-		"comment" : "Performance driven social network raises 1.5M"
 	}
 ]
